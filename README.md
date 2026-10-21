@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Ansh Taparia 👋
+# Hi, I'm Ansh Taparia 
 
 **Computer Science @ University of British Columbia | Software Development & Automation**
 
@@ -29,11 +29,12 @@ I'm a **third-year Computer Science student at UBC** and a member of **UBC Scien
 
 | Project | What I built | Technologies |
 | --- | --- | --- |
+| [**TEF Spot Notifier**](https://github.com/anshtaparia20689/tef_spot_notifier) | Automated monitoring for exam registration openings, with email alerts, handling for changing page content and failed requests, and scheduled execution. | `Python` `Requests` `BeautifulSoup` `GitHub Actions` |
 | [**University Matcher**](https://github.com/anshtaparia20689/university-matcher) | Java application for matching students with universities, using structured profiles and reusable matching logic. | `Java` `OOP` `Data Structures` |
 | [**React + D3 Visualization**](https://github.com/anshtaparia20689/simple-react-d3) | A small frontend project exploring data visualization with React and D3. | `React` `D3` `JavaScript` |
 | [**Mobile App Update Analysis**](https://github.com/anshtaparia20689/wliura-app-update-analysis) | Analysis of iOS and Android app update histories. | `Jupyter Notebook` `Data Analysis` |
 
-**Another project I've built:** a **Python Web Monitoring & Notification System** that detects exam registration openings and sends email alerts. I used Requests, BeautifulSoup4, Gmail SMTP, and GitHub Actions, with safeguards for failed requests, changing page content, and false alerts.
+The **TEF Spot Notifier** started with a real problem: a family member was repeatedly checking for newly available exam slots. I built a script to detect openings and send Gmail SMTP notifications, then improved its reliability and automated recurring checks with GitHub Actions.
 
 ### Technical toolkit
 
